@@ -1,0 +1,1 @@
+Saya sedang belajar Git CLI, saya membuat teks ini menggunakan tesk editor nano.
